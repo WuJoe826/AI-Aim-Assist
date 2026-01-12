@@ -17,13 +17,12 @@
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo in jetson nano
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/WuJoe826/AI-Aim-Assist.git
    ```
-3. Install NPM packages
-   ```sh
+2. Use your own YOLO model
+   ```py
    npm install
    ```
 4. Enter your API in `config.js`
@@ -48,4 +47,5 @@ Use this space to show useful examples of how a project can be used. Additional 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
